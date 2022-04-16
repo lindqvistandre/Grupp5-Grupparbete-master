@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/RealtyFirmAPIapi/apis/RealtyFirmAPI",
+      "type": "apis.azure"
+    }
+  }
+}

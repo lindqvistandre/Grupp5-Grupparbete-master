@@ -1,0 +1,6 @@
+
+servernamn: realtydbserver
+serveradmin: eriksundbergadmin
+lösen: ygSnOX5bVu53RIlk
+
+connection string: Server=tcp:realtydbserver.database.windows.net,1433;Initial Catalog=RealtyDb;Persist Security Info=False;User ID=eriksundbergadmin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
